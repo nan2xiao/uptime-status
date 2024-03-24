@@ -10363,7 +10363,7 @@ n.n = function(e) {
 						}), (0, i.jsxs)("p", {
 							children: [
 							  "\xa9 2024-Present ",
-							  (0, i.jsx)(l, { to: "/", text: "墨离" }), ". All rights reserved.",
+							  (0, i.jsx)(l, { to: "https://go.molikai.work/", text: "墨离" }), ". All rights reserved.",
 							  (0, i.jsxs)("div", {
 								className: "note",
 								children: [
