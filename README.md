@@ -1,3 +1,8 @@
+# 注意
+
+本仓库分叉于 [https://github.com/yb/uptime-status](https://github.com/yb/uptime-status) 并且已经进行了某些修改。
+
+
 # uptime-status
 
 一个基于 UptimeRobot API 的在线状态面板
