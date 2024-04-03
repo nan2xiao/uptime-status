@@ -10358,6 +10358,8 @@ n.n = function(e) {
 						children: [(0, i.jsxs)("p", {
 							children: ["基于 ", (0, i.jsx)(l, {
 								to: "https://uptimerobot.com/",
+								target: "_blank",
+								rel: "nofollow noreferrer",
 								text: "UptimeRobot"
 							}), " 接口制作，检测频率 5 分钟"]
 						}), (0, i.jsxs)("p", {
