@@ -10341,7 +10341,7 @@ n.n = function(e) {
 		var _n = function() {
 			var t = (0, e.useMemo)((function() {
 //				var e = window.Config.ApiKeys;
-				var e = env.API_KEY;
+				var e = env.API_KEY.split(',');
 				return Array.isArray(e) ? e : "string" === typeof e ? [e] : []
 			}), []);
 			return (0, i.jsxs)(i.Fragment, {
