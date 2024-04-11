@@ -4,7 +4,7 @@ window.Config = {
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
-  ApiKeys: [
+/*  ApiKeys: [
     'm796605247-38b33d2a085432202f956e6c', // 墨离的主页
     'm796629484-ac42a469caa3372818994912', // 墨离的博客
     'm796605299-6c5fec11c89937039348086d', // Upload 图床    
@@ -16,7 +16,9 @@ window.Config = {
     'm796608610-187cb937409fc821f4f542de', // 外部 Telegraph 服务
     'm796613448-6613beab03d67eac7383d5d6', // 第三方 UptimeRobot 接口服务
     'm796605332-9b26612bd660d759cedc1c66', // Example 测试
-  ],
+  ],*/
+
+  ApiKey: env.API_KEY,
 
   // 日志天数
   CountDays: 28,
